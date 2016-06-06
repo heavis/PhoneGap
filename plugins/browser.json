@@ -1,0 +1,72 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "hi.mobile.firstapp"
+        }
+    },
+    "dependent_plugins": {}
+}
